@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ciarán Crawley</title>
+</head>
+<body>
+<h1 id="top">Ciarán Crawley</h1>
+<!-- simple biography -->
+    <h2>Biography</h2>
+<p>Boston based Graphic Designer exploring different forms of visual storytelling.<br />Please
+<a href="mailto:cpcrawley@massart.edu">
+contact me</a> if you would like more
+information.</p>
+    <iframe
+width="600"
+height="600"
+src="http://www.ciarancrawley.com">
+</iframe>
+    <!-- the first half of my resumé -->
+<p> <b>EXPERIENCE</b>
+
+
+<h3>Massachusetts College of Art and Design</h3> 
+    <h4>Orientation Graphic Designer</h4> June 2018 to August 
+
+<p>Hired by MassArt Student development via competitive interviewing, currently designing Orientation themed branding for MassArt’s Fall 2018 Student Orientation: Including invitation cards, t-shirts, and calendars.</p>
+
+<h3>Todd Architects LTD</h3> <h4>Graphic Design Intern</h4> June 2018
+
+<p>Fulfilling presentation and modeling design needs, while working on redesigning project sheets and their InDesign template for use in the future by Todd Architects marketing.</p>
+
+<h3>Bob Jones University Collegian</h3> Staff Designer,
+Academic Year 2016-2017
+
+<p>Designed infographics, page layouts, and
+advertisements for the Bob Jones University
+student run newspaper. Worked with staff
+writers, photographers, and editors in order to
+    create the school’s weekly newspaper.</p>
+
+<h3>Arrowstreet Inc</h3> <h4>Design Intern</h4> Summer 2016
+
+<p>Worked with the Arrowstreet Graphic Design
+Department on Towson Town Center modeling,
+and gained experience in sustainable design.
+Completed a sustainable design project evaluating
+    one of Arrowstreet’s current projects.</p>
+
+<h3>YouthBuild Boston</h3> <h4>Intern Designer</h4> Summer 2015
+
+<p>Working on design solutions and projects, creating
+floor plans and drawings Interns visited
+construction sites, design firms and museums. The
+internship finished with a landscape architecture
+    project for Washington Gateway Main Street.</p>
+
+
+<b>OTHER EXPERIENCE</b>
+
+<h3>Isabella Stewart Gardner Museum</h3> <h4>Gallery Officer</h4>
+December 2017- present
+<p>Responsible for the protection of the collection,
+and safety of staff and visitors. Responsibilities
+include responding to guests in a courteous manner,
+patrolling galleries, and presenting a professional
+image to the public.</p>
+<p><a href="https://www.linkedin.com/in/ciarancrawley">
+LinkedIn</a><br />
+<p><a href="https://www.behance.net/ciarancrawley">
+Behance</a><br />
+<p><a href="https://www.instagram.com/ciarandesigns/">
+Instagram</a><br />
+    
+<p><b>Contact Me</b></p>
+    <form action="http://www.example.org/subscribe.php">
+<p>Please enter your email address:</p>
+<input type="email" name="email" />
+<input type="submit" value="Submit" />
+</form>
+
+    <meta>
+    <body>This website is just me messing around</body> 
+   
+    
